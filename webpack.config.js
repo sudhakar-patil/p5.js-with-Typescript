@@ -12,6 +12,7 @@
             }
         ]
     },    
+    devtool:false,
     resolve:{
         extensions: ['.ts','.js']
     },
