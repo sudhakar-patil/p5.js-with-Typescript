@@ -38,7 +38,7 @@ export default class CircleWithText
         this._p5.fill(this._color);
         this._p5.circle(x, y, radius);
         this._p5.fill(222);
-        this._p5.textSize(25);
+        this._p5.textSize(32);
         this._p5.text(this._text,x, y);
         //this._p5.pop();
     }
